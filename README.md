@@ -3,7 +3,7 @@
 
 
 <!-- ![profile pict](/assets/profPic.jpg){:height="700px" width="400px"} -->
-<a href="url"><img src="/assets/headerImg.jpg" height="450" width="400" ></a>
+<a href="url"><img src="/assets/headerImg.jpg" height="450" width="600" ></a>
 
 <!--
 **sophiaorlando/sophiaorlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
