@@ -2,7 +2,7 @@
 
 
 
-![profile pict](/assets/profPic.jpg =100x20)
+![profile pict](/assets/profPic.jpg){:height="700px" width="400px"}
 <!--
 **sophiaorlando/sophiaorlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
