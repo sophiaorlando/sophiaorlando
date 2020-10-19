@@ -2,8 +2,8 @@
 
 
 
-<!-- ![profile pict](/assets/profPic.jpg){:height="700px" width="400px"} -->
-<a href="url"><img src="/assets/movingprof.gif" height="450" width="650" ></a>
+![profile pict](/assets/movingprof.gif)
+<!-- <a href="url"><img src="/assets/movingprof.gif" height="450" width="650" ></a> -->
 
 ### Welcome! My name is Sophia Orlando👋
 
