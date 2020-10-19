@@ -1,8 +1,8 @@
 
 
 
-
-![profile pict](/assets/movingprof.gif) ![digital girl](/assets/digitalgirl.jpg)
+![digital girl](/assets/header.jpg)
+![profile pict](/assets/movingprof.gif) 
 <!-- <a href="url"><img src="/assets/movingprof.gif" height="450" width="650" ></a> -->
 
 ### Welcome! My name is Sophia Orlando👋
