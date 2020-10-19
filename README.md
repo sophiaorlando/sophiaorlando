@@ -1,7 +1,3 @@
-
-
-
-![digital girl](/assets/header.jpg)
 <img align="center" width="900" src="/assets/header.jpg">
 
 <!-- ![profile pict](/assets/movingprof.gif)  -->
