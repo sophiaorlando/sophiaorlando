@@ -9,6 +9,11 @@
 
 #### 📚 Most recent book I've read: Where the Crawdads Sing by Delia Owens
 
+#### 🔭 I’m currently working on ...
+#### 🌱 I’m currently learning ...
+
+<!-- this is a green color block>
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 
 <!--
 **sophiaorlando/sophiaorlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
