@@ -3,9 +3,11 @@
 <!-- ![profile pict](/assets/movingprof.gif)  -->
 <img align="right" width="190" height="250" src="/assets/movingprof.gif">
 
-### Welcome! My name is Sophia Orlando👋
+# Welcome! My name is Sophia Orlando👋
 
-#### Exceptionally creative and curious Entry Level Full Stack Web Developer with superb communication skills and italian-stallion work ethic. Deeply knowledgeable in a wide range of computer languages as well as the techniques of UX/UI design. Apart from coding, I love playing in  Adobe Creative Suite and reading murder mysteries. 
+#### ✨ Exceptionally creative and curious Entry Level Full Stack Web Developer with superb communication skills and italian-stallion work ethic. Deeply knowledgeable in a wide range of computer languages as well as the techniques of UX/UI design. Apart from coding, I love playing in  Adobe Creative Suite and reading murder mysteries ✨ <br />
+
+📚 Most recent book I've read: Where the Crawdads Sing by Delia Owens
 
 <!--
 **sophiaorlando/sophiaorlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
