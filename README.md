@@ -3,7 +3,7 @@
 
 ![digital girl](/assets/header.jpg)
 <!-- ![profile pict](/assets/movingprof.gif)  -->
-<a href="url"><img src="/assets/movingprof.gif" height="250" width="190" ></a>
+<img align="right" width="190" height="250" src="/assets/movingprof.gif">
 
 ### Welcome! My name is Sophia Orlando👋
 
