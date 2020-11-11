@@ -5,7 +5,7 @@
 
 ## Welcome! My name is Sophia Orlando👋
 
-#### ✨ Exceptionally curious and inventive Full Stack Web Developer with superb communication skills and italian-stallion work ethic. Deeply knowledgeable in a wide range of computer languages as well as the techniques of UX/UI design. ✨ <br />
+#### ✨  Exceptionally curious and inventive Full Stack Web Developer with superb communication skills and italian-stallion work ethic. Deeply knowledgeable in a wide range of computer languages as well as the techniques of UX/UI design. ✨ <br />
 
 ##### 📚 Most recent book I've read: Where the Crawdads Sing by Delia Owens
 
