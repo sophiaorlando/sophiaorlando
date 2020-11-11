@@ -1,7 +1,7 @@
 <img align="center" width="900" height="300" src="/assets/spaceDigitalWorld.gif">
 
 <!-- ![profile pict](/assets/movingprof.gif)  -->
-<img float="right" width="200" height="200" src="/assets/flower.gif">
+<img float="left" width="200" height="200" src="/assets/flower.gif">
 
 ## Welcome! My name is Sophia Orlando
 
