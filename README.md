@@ -1,4 +1,4 @@
-<img align="center" width="900" src="/assets/header.jpg">
+<img align="center" width="900" src="/assets/digitalworld.gif">
 
 <!-- ![profile pict](/assets/movingprof.gif)  -->
 <img align="right" width="200" height="200" src="/assets/flower.gif">
