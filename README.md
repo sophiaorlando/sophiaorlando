@@ -1,9 +1,9 @@
 <img align="center" width="900" height="300" src="/assets/spaceDigitalWorld.gif">
 
 <!-- ![profile pict](/assets/movingprof.gif)  -->
-<img align="right" width="200" height="200" src="/assets/flower.gif">
+<!-- <img align="right" width="200" height="200" src="/assets/flower.gif"> -->
 
-## Welcome! My name is Sophia Orlando👋
+## Welcome! My name is Sophia Orlando <img align="right" width="200" height="200" src="/assets/flower.gif">
 
 #### ✨  Exceptionally curious and inventive Full Stack Web Developer with superb communication skills and italian-stallion work ethic. Deeply knowledgeable in a wide range of computer languages as well as the techniques of UX/UI design. ✨ <br />
 
