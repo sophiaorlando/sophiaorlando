@@ -11,7 +11,7 @@
 
 ##### 🔭 I’m currently working on a React weather application. My next step is to add Hourly forecast for the next 4 days in the searched city.
    ##### ⚡ Check it out here: https://github.com/sophiaorlando/weather-app
-##### 🌱 I’m currently learning ...
+##### 🌱 I’m currently learning MERN Stack
 
 <!-- this is a green color block>
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 
