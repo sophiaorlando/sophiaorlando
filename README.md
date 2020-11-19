@@ -10,7 +10,7 @@
 ##### 📚 Most recent book I've read: Where the Crawdads Sing by Delia Owens
 
 ##### 🔭 I’m currently working on a React weather application. My next step is to add Hourly forecast for the next 4 days in the searched city.
-    ##### ⚡ Check it out here: https://github.com/sophiaorlando/weather-app
+   ##### ⚡ Check it out here: https://github.com/sophiaorlando/weather-app
 ##### 🌱 I’m currently learning ...
 
 <!-- this is a green color block>
