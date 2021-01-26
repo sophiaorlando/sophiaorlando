@@ -1,4 +1,4 @@
-<img align="center" width="900" height="300" src="/assets/spaceDigitalWorld2.gif">
+<img align="center" width="900" height="300" src="/assets/digitalworld2.gif">
 
 <!-- ![profile pict](/assets/movingprof.gif)  -->
 <!-- <img float="left" width="200" height="200" src="/assets/flower.gif"> -->
