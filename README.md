@@ -5,13 +5,12 @@
 
 ## Welcome! My name is Sophia Orlando ⚡ 
 
-#### ✨  Exceptionally curious and inventive Software Engineer with superb communication skills and italian-stallion work ethic. Deeply knowledgeable in a wide range of computer languages as well as the techniques of UX/UI design. ✨ <br />
+#### ✨  Exceptionally innovative and inventive Software Engineer with superb communication skills and italian-stallion work ethic. Deeply knowledgeable in a wide range of computer languages as well as the techniques of UX/UI design. ✨ <br />
 
 ##### 📚 Most recent book I've read: Where the Crawdads Sing by Delia Owens
 
-##### 🔭 I’m currently working on: a React weather application. My next step is to add Hourly forecast for the next 4 days in the searched city.
-   ##### ⚡ Check it out here: https://github.com/sophiaorlando/hourlyWeatherApp
-##### 🌱 I’m currently learning: MERN Stack
+##### 🔭 I’m currently working on: A React Native iOS application that will be deployed onto the App Store. 
+##### 🌱 I’m currently learning: Deployment of iOS/Android applications to App Store.
 
 <!-- this is a green color block>
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 
