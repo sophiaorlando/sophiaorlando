@@ -9,9 +9,9 @@
 
 ##### 📚 Most recent book I've read: Where the Crawdads Sing by Delia Owens
 
-##### 🔭 I’m currently working on: A React Native iOS application that will be deployed onto the App Store.
+##### 🔭 I’m currently working on: Deploying my React Native iOS application onto the Google Play Store.
 
-##### 🌱 I’m currently learning: Deployment of iOS/Android applications to App Store.
+##### 🌱 I’m currently learning: Compatibility between iOS and Android in React Native.
 
 <!-- this is a green color block>
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)
