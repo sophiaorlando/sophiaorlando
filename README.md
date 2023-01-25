@@ -7,7 +7,7 @@
 
 #### ✨ Exceptionally innovative and inventive Software Engineer with superb communication skills and italian-stallion work ethic. Deeply knowledgeable in a wide range of computer languages as well as the techniques of UX/UI design. ✨ <br />
 
-##### 📚 Most recent book I've read: The Song of Achilles by Madeline Miller.
+##### 📚 Most recent book I've read: A Court of Thornes and Roses by Sarah J. Maas ( A Court of Silver Flames is my fave ) .
 
 ##### 🔭 I’m currently working on: Deploying my React Native iOS application onto the Google Play Store.
 
