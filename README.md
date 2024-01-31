@@ -7,11 +7,11 @@
 
 #### ✨ Exceptionally innovative and inventive Software Engineer with superb communication skills and italian-stallion work ethic. Deeply knowledgeable in a wide range of computer languages as well as the techniques of UX/UI design. ✨ <br />
 
-##### 📚 Most recent book I've read: A Court of Thornes and Roses by Sarah J. Maas ( A Court of Silver Flames is my fave ) .
+##### 📚 Most recent book I've read: Gilded - The Plated Prisoner Series by Raven Kennedy
 
-##### 🔭 I’m currently working on: Deploying my React Native iOS application onto the Google Play Store.
+##### 🔭 I’m currently working on: Building out a flutter app that I will be deploying on all app stores! 
 
-##### 🌱 I’m currently learning: Compatibility between iOS and Android in React Native.
+##### 🌱 I’m currently learning: How to optimize flutter code for conditionals. 
 
 <!-- this is a green color block>
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)
